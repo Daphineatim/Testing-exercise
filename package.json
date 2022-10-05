@@ -1,0 +1,24 @@
+{
+  "name": "testing-exercise",
+  "version": "1.0.0",
+  "description": "About This is a Microverse Module 2, week 3 project. In this exercise, Jest was used to do unit tests.",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daphineatim/Testing-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daphineatim/Testing-exercise/issues"
+  },
+  "homepage": "https://github.com/Daphineatim/Testing-exercise#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
