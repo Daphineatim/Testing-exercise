@@ -1,4 +1,4 @@
-const { Calculator } = require('./task3');
+const Calculator = require('./task3');
 
 const Calc = new Calculator(20, 5);
 
